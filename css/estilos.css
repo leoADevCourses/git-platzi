@@ -10,7 +10,7 @@ body{
 }
 .cabezera{
     background: blueviolet;
-    color: black;
+    color: #333;
     font-size: 25px;
 }
 .cabezera > .subtitle{
