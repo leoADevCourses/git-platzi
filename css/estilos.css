@@ -8,6 +8,14 @@ body{
     padding: 1em;
     font-size: 12px;
 }
+.cabezera{
+    background: blueviolet;
+    color: white;
+    font-size: 25px;
+}
+.cabezera > .subtitle{
+    font-size: 18px;
+}
 h1 {
     font-size: 20px;
 }
