@@ -2,3 +2,12 @@ body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.container{
+    border: 1px solid black;
+    padding: 1em;
+    font-size: 12px;
+}
+h1 {
+    font-size: 20px;
+}
